@@ -58,4 +58,13 @@
     line-height:18px;
     text-align: center;
   }
+  .nav-ico {
+    display: block;
+  }
+
+  .menu-icon {
+    display:block;
+    float:right;
+  }
+
 }
